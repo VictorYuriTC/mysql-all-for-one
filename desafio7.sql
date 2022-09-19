@@ -1,3 +1,5 @@
+-- Source: https://stackoverflow.com/questions/12125904/select-last-n-rows-from-mysql
+
 SELECT *
 FROM (
   SELECT id FROM products
