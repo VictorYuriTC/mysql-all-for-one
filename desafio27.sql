@@ -1,0 +1,1 @@
+DELETE order_details;
